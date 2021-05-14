@@ -1,0 +1,52 @@
+body
+{
+background-image: url("cssimg.jpg");
+color:black;
+font-size: 12px;
+border-style:solid;
+border-color:white;
+border-width:2px;
+}
+#container {
+background: #FFFFFF;
+margin: 30px auto;
+width: 900px;
+height: 1000px;
+border-style:solid;
+border-color:black;
+border-width:2px;
+}
+#header {
+background: white;
+height: 200px;
+width: 900px;
+font-family: Comic Sans MS;
+font-size:50;
+border-style:solid;
+border-color:black;
+border-width:2px;
+}
+#menu {
+background: #333333;
+float: left;
+width: 199px;
+height: 600px;
+color:white;
+font-family: Comic Sans MS;
+border-right-style:solid;
+border-right-color:black;
+border-right-width:1px;
+}
+#content {
+background: #d2d0d2;
+float: right;
+width: 700px;
+height: 600px;
+color:black;
+font-family: Comic Sans MS;
+}
+#footer {
+background: #838283;
+height: 80px;
+width: 900px;
+}

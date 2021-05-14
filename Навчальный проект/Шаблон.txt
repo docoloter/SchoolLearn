@@ -1,0 +1,29 @@
+
+<html>
+<head>
+<title>Заголовок</title>
+<script  type = "text/javascript" src="script.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div id="container">
+<div id="header">
+  Назва сайту Тема
+</div>
+<div id="menu">
+  Меню <br>
+  <a href='index.html'>Головна сторінка </a> <br>
+   <a href='index1.html'>Сторінка 1 </a> <br>
+   <a href='index2.html'>Сторінка 2 </a> <br>
+   <a href='index3.html'>Сторінка 3 </a> <br>
+  
+</div>
+<div id="content">
+  Котент
+</div>
+<div id="footer">
+  прізвище та ім'я
+</div>
+</div>
+</body>
+</html>
